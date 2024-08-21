@@ -1,0 +1,12 @@
+# Sony Consoles
+- [[PlayStation 1]]
+- [[PlayStation 2]]
+- [[PlayStation 3]]
+- [[PlayStation 4]]
+- [[PlayStation 5]]
+- [[PSP]]
+- [[PS Vita]]
+- Controllers
+	- [[DualShock 3]]
+	- [[DualShock 4]]
+	- [[DualSense]]
