@@ -1,4 +1,3 @@
-# Nintendo Consoles
 - [[Nintendo 64]]
 - [[Nintendo NES]]
 - [[Nintendo SNES]]
