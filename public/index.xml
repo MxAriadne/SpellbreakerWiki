@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Spellbreaker Wiki</title>
+      <link>https://your-quartz-site.com</link>
+      <description>Last 10 notes on Spellbreaker Wiki</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>HTC</title>
+    <link>https://your-quartz-site.com/Game-Consoles/HTC/HTC</link>
+    <guid>https://your-quartz-site.com/Game-Consoles/HTC/HTC</guid>
+    <description>HTC HTC Vive XR Elite .</description>
+    <pubDate>Wed, 21 Aug 2024 22:05:29 GMT</pubDate>
+  </item><item>
+    <title>Smartphones</title>
+    <link>https://your-quartz-site.com/Smartphones/Smartphones</link>
+    <guid>https://your-quartz-site.com/Smartphones/Smartphones</guid>
+    <description>Smartphones.</description>
+    <pubDate>Wed, 21 Aug 2024 21:33:09 GMT</pubDate>
+  </item><item>
+    <title>DualSense</title>
+    <link>https://your-quartz-site.com/Game-Consoles/Sony-Consoles/Controllers/DualSense</link>
+    <guid>https://your-quartz-site.com/Game-Consoles/Sony-Consoles/Controllers/DualSense</guid>
+    <description>...</description>
+    <pubDate>Wed, 21 Aug 2024 21:33:09 GMT</pubDate>
+  </item><item>
+    <title>DualShock 4</title>
+    <link>https://your-quartz-site.com/Game-Consoles/Sony-Consoles/Controllers/DualShock-4</link>
+    <guid>https://your-quartz-site.com/Game-Consoles/Sony-Consoles/Controllers/DualShock-4</guid>
+    <description>...</description>
+    <pubDate>Wed, 21 Aug 2024 21:33:09 GMT</pubDate>
+  </item><item>
+    <title>PS Vita</title>
+    <link>https://your-quartz-site.com/Game-Consoles/Sony-Consoles/PS-Vita</link>
+    <guid>https://your-quartz-site.com/Game-Consoles/Sony-Consoles/PS-Vita</guid>
+    <description>...</description>
+    <pubDate>Wed, 21 Aug 2024 21:33:09 GMT</pubDate>
+  </item><item>
+    <title>PSP</title>
+    <link>https://your-quartz-site.com/Game-Consoles/Sony-Consoles/PSP</link>
+    <guid>https://your-quartz-site.com/Game-Consoles/Sony-Consoles/PSP</guid>
+    <description>...</description>
+    <pubDate>Wed, 21 Aug 2024 21:33:09 GMT</pubDate>
+  </item><item>
+    <title>PlayStation 1</title>
+    <link>https://your-quartz-site.com/Game-Consoles/Sony-Consoles/PlayStation-1</link>
+    <guid>https://your-quartz-site.com/Game-Consoles/Sony-Consoles/PlayStation-1</guid>
+    <description> Problem DescriptionSymptomsSolutionSource.</description>
+    <pubDate>Wed, 21 Aug 2024 21:33:09 GMT</pubDate>
+  </item><item>
+    <title>PlayStation 2</title>
+    <link>https://your-quartz-site.com/Game-Consoles/Sony-Consoles/PlayStation-2</link>
+    <guid>https://your-quartz-site.com/Game-Consoles/Sony-Consoles/PlayStation-2</guid>
+    <description>...</description>
+    <pubDate>Wed, 21 Aug 2024 21:33:09 GMT</pubDate>
+  </item><item>
+    <title>PlayStation 3</title>
+    <link>https://your-quartz-site.com/Game-Consoles/Sony-Consoles/PlayStation-3</link>
+    <guid>https://your-quartz-site.com/Game-Consoles/Sony-Consoles/PlayStation-3</guid>
+    <description>The repair.wiki entry on this console also includes a lot of model specific information that will not be included here. Problem DescriptionSymptomsSolutionSourceApplications won’t launch, also can’t update the console- Can be caused by a dead disc drive.- Check for shorts around the Bluetooth/WiFi module, replace if shorted.SourcePS3 freezes on boot and/or slow during use.- Laggy XMB - Games/apps freeze- Longer than usual load times.- Test the HDD using CrystalDiskInfo or similar software to ensure it’s a good drive.SourceOverheating despite cleaning.- Delid the CELL/BE and/or RSX, as the factory thermal paste between the actual chips and the IHS can fail/degrade over time.SourceMod that achieves the same effect without delidding.Red Light of Death (RLoD)Verify the CoreOS files aren’t corrupt, reflash the flash chips if necessary.SourceYellow Light of Death (YLoD)- Artifacting- Distorted colors after a few minutes- Lines on the screen- Possibly bad RSX, specifically the bumps that connect the GPU to the substrate (most likely to happen on 90nm variants of the RSX, some 65nm variants may also be affected)- Possibly bad solder balls between the RSX and Motherboard- Possibly bad NEC/Tokin capacitorsSourceAdditional YLoD Info.</description>
+    <pubDate>Wed, 21 Aug 2024 21:33:09 GMT</pubDate>
+  </item><item>
+    <title>PlayStation 4</title>
+    <link>https://your-quartz-site.com/Game-Consoles/Sony-Consoles/PlayStation-4</link>
+    <guid>https://your-quartz-site.com/Game-Consoles/Sony-Consoles/PlayStation-4</guid>
+    <description> Problem DescriptionSymptomsSolutionSourceWhite Light of Death (WLoD)No display.Can be caused by anything in the HDMI circuit. (Encoder, Port, Filters, etc.)SourceWhite Light of Death (WLoD)Does not display normally but does when booting to Safe Mode.- Test the HDD using CrystalDiskInfo or similar software to ensure it’s a good drive.- If the drive is good then the only other known cause is the HDMI encoder.SourceCan’t read discs.- “Unrecognized disc” showing up when any disc is inserted.- Disc is immediately ejected after being inserted.- Can be caused by a dirty laser, try cleaning first.- If the issue persists, replace the laser.SourceCan’t read discs or won’t accept discs.- Check F6202 fuse.</description>
+    <pubDate>Wed, 21 Aug 2024 21:33:09 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
