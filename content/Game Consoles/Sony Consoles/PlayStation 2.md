@@ -1,3 +1,5 @@
+# PlayStation 2
+
 | Problem Description                       | Symptoms | Solution                                                                                                                                                                                                                        | Source                                            |
 | ----------------------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
 | No video output.                          |          | When using a component cable make sure to set "Component Video Out" to "Y Cb/Pb Cr/Pr" in the PS2 system configuration (you can do this by temporarily connecting back the RGB cable or by navigating blindly in the PS2 menu). | [Source](https://old.repair.wiki/w/PlayStation_2) |

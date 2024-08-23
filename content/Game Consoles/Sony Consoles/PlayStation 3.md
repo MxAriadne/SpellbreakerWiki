@@ -1,3 +1,5 @@
+# PlayStation 3
+
 [The repair.wiki entry on this console also includes a lot of model specific information that will not be included here.](https://repair.wiki/w/Playstation_3)
 
 | Problem Description                                      | Symptoms                                                                                 | Solution                                                                                                                                                                                                                                                                                    | Source                                                                                                                                                                                                                   |

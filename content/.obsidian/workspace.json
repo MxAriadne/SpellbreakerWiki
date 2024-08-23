@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "2103a9a5071a8d4a",
+        "id": "436a10825e50556b",
         "type": "tabs",
         "children": [
           {
-            "id": "c5e2a365d3315472",
+            "id": "589c47ac4c49fd65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Consoles/HTC/HTC.md",
+                "file": "How-To Guides/How-To Guides.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0245a2113a3f60fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Consoles/HTC/HTC.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Consoles/HTC/HTC.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Consoles/HTC/HTC.md"
+                "file": "index.md"
               }
             }
           }
@@ -146,47 +159,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c5e2a365d3315472",
+  "active": "0245a2113a3f60fb",
   "lastOpenFiles": [
-    "Game Consoles/HTC/HTC Vive XR Elite.md",
-    "Game Consoles/HTC/Detailed Explanation.md",
-    "Game Consoles/HTC/HTC.md",
+    "Game Consoles/Game Consoles.md",
+    "Smartphones/Smartphones.md",
+    "Computer Components/GPUs/Gigabyte AMD 7800 XT 12GB.md",
+    "Game Consoles/Microsoft Consoles/Original Xbox.md",
+    "Game Consoles/Microsoft Consoles/Microsoft Consoles.md",
+    "Game Consoles/Sony Consoles/Sony Consoles.md",
+    "Computer Components/GPUs",
+    "Computer Components",
+    "Game Consoles/Sony Consoles/PlayStation 3.md",
+    "Game Consoles/Sony Consoles/PlayStation 4.md",
+    "Game Consoles/Sony Consoles/PlayStation 5.md",
+    "Game Consoles/Sony Consoles/PlayStation 2.md",
+    "Game Consoles/Sony Consoles/PlayStation 1.md",
+    "Game Consoles/Sony Consoles/Controllers/DualSense.md",
+    "Game Consoles/Steam Consoles/Steam Consoles.md",
+    "Game Consoles/Sega Consoles/Sega Game Gear.md",
+    "Game Consoles/Sega Consoles/Sega Consoles.md",
+    "index.md",
+    "Pasted image 20240822040310.png",
+    "Pasted image 20240822032717.png",
+    "Resources.md",
+    "How-To Guides/How-To Guides.md",
+    "retrosix.wiki.md",
+    "How-To Guides/Creating a bootable macOS installer USB on Linux..md",
+    "How-To Guides/Windows 10 or 11 installer doesn't detect NVMe drive..md",
+    "Windows 10/11 installer doesn't detect NVMe drive..md",
+    "Windows 10",
     "Game Consoles/Microsoft Consoles/Xbox Series X.md",
     "Game Consoles/Microsoft Consoles/Xbox One X.md",
     "Game Consoles/Microsoft Consoles/Xbox One S.md",
-    "Game Consoles/Microsoft Consoles/Original Xbox.md",
     "Game Consoles/Microsoft Consoles/Xbox One.md",
-    "Game Consoles/Microsoft Consoles/Xbox 360.md",
-    "Game Consoles/Microsoft Consoles/Xbox  Series S.md",
-    "Game Consoles/Microsoft Consoles/Microsoft Consoles.md",
-    "Game Consoles/Sony Consoles/Sony Consoles.md",
-    "Game Consoles/Sega Consoles/Sega Consoles.md",
-    "Game Consoles/Nintendo Consoles/Nintendo Game Boy/Pocket.md",
-    "Game Consoles/Nintendo Consoles/DS/DSi (All Version).md",
-    "Game Consoles/Nintendo Consoles/DS/Nintendo DS.md",
-    "Game Consoles/Nintendo Consoles/DS/DS Lite.md",
-    "Game Consoles/Nintendo Consoles/DS/3DS + 2DS (All Versions).md",
-    "Game Consoles/Nintendo Consoles/Nintendo DS/DSi (All Version).md",
-    "Game Consoles/Nintendo Consoles/Nintendo DS/DS Lite.md",
-    "Game Consoles/Nintendo Consoles/Nintendo DS/3DS + 2DS (All Versions).md",
-    "Game Consoles/Nintendo Consoles/Nintendo DS/Nintendo DS.md",
-    "Game Consoles/Nintendo Consoles/Nintendo SNES.md",
-    "Game Consoles/Nintendo Consoles/Nintendo Switch/Switch Lite.md",
-    "Game Consoles/Nintendo Consoles/Color.md",
-    "Game Consoles/Nintendo Consoles/Switch/Switch Lite.md",
-    "Pasted image 20240822032717.png",
+    "How-To Guides",
     "Game Consoles/Nintendo Consoles/Nintendo Game Boy",
     "Pasted image 20240822040317.png",
-    "Pasted image 20240822040310.png",
     "quartz/quartz/plugins/transformers/toc.ts",
     "quartz/quartz/plugins/transformers/syntax.ts",
     "quartz/quartz/plugins/transformers/oxhugofm.ts",
     "quartz/quartz/plugins/transformers/ofm.ts",
     "quartz/quartz/plugins/transformers/links.ts",
-    "quartz/quartz/plugins/transformers/linebreaks.ts",
-    "quartz/quartz/plugins/transformers/latex.ts",
-    "quartz/quartz/plugins/transformers/lastmod.ts",
-    "quartz/quartz/plugins/transformers/index.ts",
     "quartz/quartz/static/og-image.png",
     "quartz/quartz/static/icon.png",
     "quartz/docs/images/quartz transform pipeline.png",
