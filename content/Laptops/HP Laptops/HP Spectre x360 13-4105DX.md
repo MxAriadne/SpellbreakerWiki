@@ -1,0 +1,5 @@
+# HP Spectre x360 13-4105DX
+
+| Problem Description                                      | Symptoms                                                                                                                           | Solution                                                                       | Source                                                                       |
+| -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------------------------- |
+| Keyboard & trackpad are disabled both in OS and in BIOS. | - Laptop will be stuck in tablet UI if using Windows.<br><br>- Keyboard  & trackpad may or may not start working when upside down. | The accelerometer IC (labeled U28 on the board) is bad and will need replaced. | [Source](https://old.repair.wiki/w/HP_Laptops_Spectre_Series_x360_13-4105dx) |

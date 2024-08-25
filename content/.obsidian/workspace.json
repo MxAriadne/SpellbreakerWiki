@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "436a10825e50556b",
+        "id": "3ee547f1ca1f18fa",
         "type": "tabs",
         "children": [
           {
-            "id": "589c47ac4c49fd65",
+            "id": "df3b9bf6202f4662",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How-To Guides/How-To Guides.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0245a2113a3f60fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
+                "file": "Tablets/Tablets.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Tablets/Tablets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Tablets/Tablets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Tablets/Tablets.md"
               }
             }
           }
@@ -159,47 +146,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0245a2113a3f60fb",
+  "active": "df3b9bf6202f4662",
   "lastOpenFiles": [
-    "Game Consoles/Game Consoles.md",
     "Smartphones/Smartphones.md",
-    "Computer Components/GPUs/Gigabyte AMD 7800 XT 12GB.md",
-    "Game Consoles/Microsoft Consoles/Original Xbox.md",
-    "Game Consoles/Microsoft Consoles/Microsoft Consoles.md",
-    "Game Consoles/Sony Consoles/Sony Consoles.md",
-    "Computer Components/GPUs",
-    "Computer Components",
-    "Game Consoles/Sony Consoles/PlayStation 3.md",
-    "Game Consoles/Sony Consoles/PlayStation 4.md",
-    "Game Consoles/Sony Consoles/PlayStation 5.md",
-    "Game Consoles/Sony Consoles/PlayStation 2.md",
-    "Game Consoles/Sony Consoles/PlayStation 1.md",
-    "Game Consoles/Sony Consoles/Controllers/DualSense.md",
-    "Game Consoles/Steam Consoles/Steam Consoles.md",
-    "Game Consoles/Sega Consoles/Sega Game Gear.md",
-    "Game Consoles/Sega Consoles/Sega Consoles.md",
-    "index.md",
+    "Laptops/Laptops.md",
+    "How-To Guides/How-To Guides.md",
+    "Game Consoles/Game Consoles.md",
+    "Tablets/Tablets.md",
+    "Tablets/Samsung Tablets/Samsung Galaxy Tab E.md",
+    "Tablets/Amazon Tablets/Amazon Kindle Fire HD 2013 (3rd Gen).md",
+    "Tablets/Amazon Tablets/Amazon Tablets.md",
+    "Tablets/Samsung Tablets/Samsung Tablets.md",
+    "Tablets/MaxWest Tablets/MaxWest Tablets.md",
+    "Tablets/ASUS Tablets/ASUS Tablets.md",
+    "Tablets/Apple Tablets/Apple Tablets.md",
+    "Tablets/LG Tablets/LG Tablets.md",
+    "Tablets/Lenovo Tablets/Lenovo Tablets.md",
+    "Tablets/Google Tablets/Google Tablets.md",
+    "Tablets/MaxWest Tablets/MaxWest Nitro 8.md",
+    "Tablets/ASUS Tablets/ASUS VivoTab Note 8 M80TA.md",
+    "Laptops/Apple Laptops/Apple Laptops.md",
+    "Laptops/Acer Laptops/Acer Aspire 5057G.md",
+    "Laptops/Acer Laptops/Acer Laptops.md",
+    "Laptops/Lenovo Laptops/Lenovo Thinkpad P51.md",
+    "Laptops/Lenovo Laptops/Lenovo Laptops.md",
+    "Laptops/HP Laptops/HP Laptops.md",
+    "Laptops/Dell Laptops/Dell Laptops.md",
+    "Laptops/Asus Laptops/Asus Laptops.md",
+    "Tablets/Apple Tablets/iPad 5.md",
+    "Asus VivoBook F505",
+    "HP EliteBook 840 G5",
+    "Laptops/HP Laptops",
+    "Laptops/Acer Laptops",
+    "Laptops/Dell Laptops",
+    "Laptops/Alienware Laptops",
+    "Laptops/Lenovo Laptops",
+    "Laptops/Apple Laptops",
+    "Laptops/Asus Laptops",
+    "Laptops",
     "Pasted image 20240822040310.png",
     "Pasted image 20240822032717.png",
-    "Resources.md",
-    "How-To Guides/How-To Guides.md",
-    "retrosix.wiki.md",
-    "How-To Guides/Creating a bootable macOS installer USB on Linux..md",
-    "How-To Guides/Windows 10 or 11 installer doesn't detect NVMe drive..md",
-    "Windows 10/11 installer doesn't detect NVMe drive..md",
-    "Windows 10",
-    "Game Consoles/Microsoft Consoles/Xbox Series X.md",
-    "Game Consoles/Microsoft Consoles/Xbox One X.md",
-    "Game Consoles/Microsoft Consoles/Xbox One S.md",
-    "Game Consoles/Microsoft Consoles/Xbox One.md",
-    "How-To Guides",
-    "Game Consoles/Nintendo Consoles/Nintendo Game Boy",
     "Pasted image 20240822040317.png",
-    "quartz/quartz/plugins/transformers/toc.ts",
-    "quartz/quartz/plugins/transformers/syntax.ts",
-    "quartz/quartz/plugins/transformers/oxhugofm.ts",
-    "quartz/quartz/plugins/transformers/ofm.ts",
-    "quartz/quartz/plugins/transformers/links.ts",
     "quartz/quartz/static/og-image.png",
     "quartz/quartz/static/icon.png",
     "quartz/docs/images/quartz transform pipeline.png",

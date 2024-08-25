@@ -1,0 +1,5 @@
+# iPad Pro 11 (4th Gen)
+
+| Problem Description     | Symptoms | Solution                                                                                                                                                                                                                                                  | Source                                                |
+| ----------------------- | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
+| Not charging, no power. |          | - If you have a tristar tester or lightning breakout board you should test that before attempting the following.<br><br>- Test with a known good battery.<br><br>- Replace charge port.<br><br>- If the above didn't help you likely have a dead tristar. | [Source](https://www.youtube.com/watch?v=bhkcc9CZeYU) |

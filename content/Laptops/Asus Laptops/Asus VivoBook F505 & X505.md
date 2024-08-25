@@ -1,0 +1,5 @@
+# Asus VivoBook F505 & X505
+
+| Problem Description | Symptoms                                           | Solution                                                                                                                                           | Source                                                 |
+| ------------------- | -------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
+| No signs of life.   | - RAM voltage missing.<br><br>- 1.2V line missing. | - Check for corroded components.<br><br>- Check the traces between the RAM ICs and controller, the resistors on that same trace may also be blown. | [Source](https://old.repair.wiki/w/VivoBook_F505/X505) |

@@ -1,0 +1,5 @@
+# Asus ZenBook 13 UX334FL
+
+| Problem Description | Symptoms                                                      | Solution                                                                                                                                                                         | Source                                                 |
+| ------------------- | ------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
+| No power.           | 19V present until it reaches the first inrush limiter MOSFET. | - Check for shorts around BQ24780<br><br>- In the source incident, a cap blew on the bottom right side of the board, diagonal from the BQ IC. (See source for pictures as well.) | [Source](https://old.repair.wiki/w/ZenBook_13_UX334FL) |
