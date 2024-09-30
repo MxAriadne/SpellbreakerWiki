@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tablets/Tablets.md",
+                "file": "Laptops/Apple Laptops/Apple MacBook Air A1932.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tablets/Tablets.md",
+                "file": "Laptops/Apple Laptops/Apple MacBook Air A1932.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tablets/Tablets.md",
+                "file": "Laptops/Apple Laptops/Apple MacBook Air A1932.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tablets/Tablets.md"
+                "file": "Laptops/Apple Laptops/Apple MacBook Air A1932.md"
               }
             }
           }
@@ -148,11 +148,14 @@
   },
   "active": "df3b9bf6202f4662",
   "lastOpenFiles": [
-    "Smartphones/Smartphones.md",
+    "Laptops/Acer Laptops/Acer Aspire V3-772G.md",
+    "Laptops/Apple Laptops/Apple MacBook Air A1932.md",
+    "Laptops/Apple Laptops/Apple Laptops.md",
     "Laptops/Laptops.md",
+    "Tablets/Tablets.md",
+    "Smartphones/Smartphones.md",
     "How-To Guides/How-To Guides.md",
     "Game Consoles/Game Consoles.md",
-    "Tablets/Tablets.md",
     "Tablets/Samsung Tablets/Samsung Galaxy Tab E.md",
     "Tablets/Amazon Tablets/Amazon Kindle Fire HD 2013 (3rd Gen).md",
     "Tablets/Amazon Tablets/Amazon Tablets.md",
@@ -165,15 +168,12 @@
     "Tablets/Google Tablets/Google Tablets.md",
     "Tablets/MaxWest Tablets/MaxWest Nitro 8.md",
     "Tablets/ASUS Tablets/ASUS VivoTab Note 8 M80TA.md",
-    "Laptops/Apple Laptops/Apple Laptops.md",
     "Laptops/Acer Laptops/Acer Aspire 5057G.md",
     "Laptops/Acer Laptops/Acer Laptops.md",
     "Laptops/Lenovo Laptops/Lenovo Thinkpad P51.md",
     "Laptops/Lenovo Laptops/Lenovo Laptops.md",
     "Laptops/HP Laptops/HP Laptops.md",
     "Laptops/Dell Laptops/Dell Laptops.md",
-    "Laptops/Asus Laptops/Asus Laptops.md",
-    "Tablets/Apple Tablets/iPad 5.md",
     "Asus VivoBook F505",
     "HP EliteBook 840 G5",
     "Laptops/HP Laptops",

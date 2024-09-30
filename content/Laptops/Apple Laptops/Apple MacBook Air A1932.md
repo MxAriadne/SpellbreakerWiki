@@ -1,0 +1,6 @@
+# Apple MacBook Air A1932
+
+| Problem Description | Symptoms                                                                  | Solution                                                                                          | Source                                                                                                         |
+| ------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| No power.           | - Pulls low amperage.<br><br>- SLPS2R and AWAKE voltages/signals cycling. | If there are no shorts present on PP5v_G3S, PP3v3_G3S, PP1v8_G3S, or PP3v_G3H then replace U7800. | [Source](https://repair.wiki/w/MacBook_Air_A1932_Not_turning_on,_pulling_very_low_current_at_5V_or_20V_repair) |
+| No power.           | - Pulls 5V 0.10A - 0.25A<br><br>- Stuck in DFU mode.                      |                                                                                                   |                                                                                                                |
