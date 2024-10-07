@@ -1,0 +1,3 @@
+# Computer Components
+
+- [[GPUs]]
