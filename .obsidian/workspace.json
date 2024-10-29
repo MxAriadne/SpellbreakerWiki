@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5f6bab9af5da830c",
+        "id": "e392d01853323f2d",
         "type": "tabs",
         "children": [
           {
-            "id": "258796aa62f81b50",
+            "id": "f8c159ea56267d18",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Game Consoles/Microsoft Consoles/Microsoft Consoles.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -39,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +54,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +64,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Game Consoles/Microsoft Consoles/Microsoft Consoles.md",
+                "file": "content/Computer Components/Computer Components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +97,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Computer Components"
             }
           },
           {
@@ -102,10 +108,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Game Consoles/Microsoft Consoles/Microsoft Consoles.md",
+                "file": "content/Computer Components/Computer Components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Computer Components"
             }
           },
           {
@@ -116,7 +124,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +135,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Game Consoles/Microsoft Consoles/Microsoft Consoles.md"
-              }
+                "file": "content/Computer Components/Computer Components.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Computer Components"
             }
           }
         ]
@@ -146,16 +158,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "258796aa62f81b50",
+  "active": "f8c159ea56267d18",
   "lastOpenFiles": [
+    "content/Pasted image 20241007184929.png",
     "content/Game Consoles/Sony Consoles/PlayStation 5.md",
+    "content/WIN_20240821_00_15_33_Pro.png",
+    "Pastedimage20241007184929.png.md",
+    "content/Pasted image 20241007184824.png",
+    "content/Pasted image 20240822040317.png",
+    "content/Pasted image 20240822040310.png",
+    "content/Pasted image 20240822032717.png",
+    "content/index.md",
+    "public/static/og-image.png",
+    "public/static/icon.png",
+    "content/Laptops/Apple Laptops/Apple MacBook Air A1932.md",
+    "content/Laptops/Apple Laptops/Apple Laptops.md",
+    "content/Laptops/Acer Laptops/Acer Aspire V3-772G.md",
+    "content/Laptops/Acer Laptops/Acer Aspire E5-773G.md",
+    "content/Laptops/Acer Laptops/Acer Aspire 5057G.md",
+    "content/Resources.md",
+    "content/How-To Guides/Creating a bootable macOS installer USB on Linux..md",
+    "content/How-To Guides/How-To Guides.md",
     "content/Game Consoles/Microsoft Consoles/Xbox Series X.md",
-    "Pasted image 20241007184929.png",
-    "Pasted image 20241007184824.png",
+    "content/Computer Components/Computer Components.md",
+    "content/Untitled.md",
+    "content/Computer Components/GPUs/GPUs.md",
+    "CODE_OF_CONDUCT.md",
     "content/Game Consoles/Microsoft Consoles/Microsoft Consoles.md",
     "content/Game Consoles/Game Consoles.md",
-    "content/Computer Components/GPUs/Gigabyte AMD 7800 XT 12GB.md",
-    "content/Computer Components/GPUs/GPUs.md",
-    "content/Computer Components/Computer Components.md"
+    "content/Computer Components/GPUs/Gigabyte AMD 7800 XT 12GB.md"
   ]
 }
