@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e392d01853323f2d",
+        "id": "0dfbe8efa274c567",
         "type": "tabs",
         "children": [
           {
-            "id": "f8c159ea56267d18",
+            "id": "53fb3bbf28203407",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -73,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 260.5
   },
   "right": {
     "id": "ba4474f833a3643a",
@@ -158,34 +158,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f8c159ea56267d18",
+  "active": "53fb3bbf28203407",
   "lastOpenFiles": [
-    "content/Pasted image 20241007184929.png",
-    "content/Game Consoles/Sony Consoles/PlayStation 5.md",
-    "content/WIN_20240821_00_15_33_Pro.png",
-    "Pastedimage20241007184929.png.md",
-    "content/Pasted image 20241007184824.png",
-    "content/Pasted image 20240822040317.png",
-    "content/Pasted image 20240822040310.png",
-    "content/Pasted image 20240822032717.png",
     "content/index.md",
-    "public/static/og-image.png",
-    "public/static/icon.png",
+    "README.md",
+    "content/Smartphones/Smartphones.md",
+    "content/Smartphones/Apple iPhones.md",
+    "content/Smartphones/Samsung Galaxy.md",
+    "content/Smartphones/Google Pixels.md",
+    "content/Laptops/Lenovo Laptops/Lenovo Thinkpad E490 & E590.md",
+    "content/Laptops/Lenovo Laptops/Lenovo IdeaPad Yoga 910-13IKB.md",
+    "content/Tablets/Apple Tablets/iPad Pro 12.9 (1st Gen).md",
+    "content/Tablets/Apple Tablets/iPad Pro 12.9 (2nd Gen).md",
+    "content/Tablets/Apple Tablets/iPad Pro 12.9 (3rd Gen).md",
+    "content/Tablets/Apple Tablets/iPad Pro 12.9 (4th Gen).md",
+    "content/Tablets/Apple Tablets/iPad Pro 12.9 (5th Gen).md",
+    "content/Tablets/Apple Tablets/iPad Mini 6.md",
+    "content/Tablets/Apple Tablets/iPad Pro 10.5in (1st Gen).md",
+    "content/Laptops/Lenovo Laptops/Lenovo Thinkpad P51.md",
+    "content/Laptops/Lenovo Laptops/Lenovo Laptops.md",
+    "content/Laptops/Dell Laptops/Dell Precision M6400.md",
+    "content/Laptops/Dell Laptops/Dell Laptops.md",
+    "content/Laptops/Dell Laptops/Dell Inspiron 15 N5050.md",
+    "content/Laptops/Asus Laptops/Asus ZenBook 13 UX334FL.md",
+    "content/Laptops/Asus Laptops/Asus VivoBook F505 & X505.md",
+    "content/Laptops/Asus Laptops/Asus Laptops.md",
+    "content/Laptops/Apple Laptops/Apple MacBook Air A2179.md",
+    "content/Laptops/Apple Laptops/Apple MacBook Air A2337.md",
     "content/Laptops/Apple Laptops/Apple MacBook Air A1932.md",
-    "content/Laptops/Apple Laptops/Apple Laptops.md",
-    "content/Laptops/Acer Laptops/Acer Aspire V3-772G.md",
-    "content/Laptops/Acer Laptops/Acer Aspire E5-773G.md",
-    "content/Laptops/Acer Laptops/Acer Aspire 5057G.md",
-    "content/Resources.md",
-    "content/How-To Guides/Creating a bootable macOS installer USB on Linux..md",
-    "content/How-To Guides/How-To Guides.md",
-    "content/Game Consoles/Microsoft Consoles/Xbox Series X.md",
-    "content/Computer Components/Computer Components.md",
-    "content/Untitled.md",
-    "content/Computer Components/GPUs/GPUs.md",
-    "CODE_OF_CONDUCT.md",
-    "content/Game Consoles/Microsoft Consoles/Microsoft Consoles.md",
-    "content/Game Consoles/Game Consoles.md",
-    "content/Computer Components/GPUs/Gigabyte AMD 7800 XT 12GB.md"
+    "content/Pasted image 20241116142626.png",
+    "Pasted image 20241116142403.png",
+    "Pasted image 20241116142429.png",
+    "content/Pasted image 20241116134702.png",
+    "content/Pasted image 20241116134552.png",
+    "content/Pasted image 20240822032717.png",
+    "content/Pasted image 20240822040310.png",
+    "content/Pasted image 20240822040317.png",
+    "content/Pasted image 20241007184824.png",
+    "content/Pasted image 20241007184929.png"
   ]
 }
