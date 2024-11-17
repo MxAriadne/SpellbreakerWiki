@@ -11,10 +11,14 @@
             "id": "53fb3bbf28203407",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/Game Consoles/Nintendo Consoles/Nintendo Switch/Switch OLED.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Switch OLED"
             }
           }
         ]
@@ -160,6 +164,8 @@
   },
   "active": "53fb3bbf28203407",
   "lastOpenFiles": [
+    "content/Game Consoles/Nintendo Consoles/Nintendo Switch/Nintendo Switch.md",
+    "content/Nintendo_Switch_Tail_Insertion_Pinout_Correlations.png",
     "content/index.md",
     "README.md",
     "content/Smartphones/Smartphones.md",
@@ -185,7 +191,6 @@
     "content/Laptops/Asus Laptops/Asus Laptops.md",
     "content/Laptops/Apple Laptops/Apple MacBook Air A2179.md",
     "content/Laptops/Apple Laptops/Apple MacBook Air A2337.md",
-    "content/Laptops/Apple Laptops/Apple MacBook Air A1932.md",
     "content/Pasted image 20241116142626.png",
     "Pasted image 20241116142403.png",
     "Pasted image 20241116142429.png",
@@ -194,7 +199,6 @@
     "content/Pasted image 20240822032717.png",
     "content/Pasted image 20240822040310.png",
     "content/Pasted image 20240822040317.png",
-    "content/Pasted image 20241007184824.png",
-    "content/Pasted image 20241007184929.png"
+    "content/Pasted image 20241007184824.png"
   ]
 }

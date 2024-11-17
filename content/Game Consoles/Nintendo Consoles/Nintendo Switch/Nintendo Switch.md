@@ -30,3 +30,10 @@
 ### If one of these capacitors is shorted, the APU is dead.
 
 ![[Pasted image 20240822040310.png]]![[Pasted image 20240822040317.png]]
+
+
+### Diode Reading Pin/Fault Diagram
+You can read these values with a Tail Insertion Tester or a 24 pin USB-C breakout board.
+If the diode reading is low or missing you can use this chart to pinpoint the fault.
+
+![[Nintendo_Switch_Tail_Insertion_Pinout_Correlations.png]]
