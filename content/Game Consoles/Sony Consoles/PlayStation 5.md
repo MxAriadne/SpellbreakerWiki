@@ -20,3 +20,12 @@
 ### HDMI Encoder IC Diode Readings
 
 ![[Pasted image 20241007184929.png]]
+
+### HDMI Port Diode Readings
+
+![[Pasted image 20241213222925.png]]
+
+### Good Tail Insertion Tester Reading
+
+![[Pasted image 20241213222830.png]]
+

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0dfbe8efa274c567",
+        "id": "ea961435fa97eb1f",
         "type": "tabs",
         "children": [
           {
-            "id": "53fb3bbf28203407",
+            "id": "8449db19a26dfb77",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "PlayStation 5"
             }
-          },
-          {
-            "id": "bdc0661bb9ee5d56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/How-To Guides/Board Component Cheat Sheet.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Board Component Cheat Sheet"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,42 +162,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bdc0661bb9ee5d56",
+  "active": "8449db19a26dfb77",
   "lastOpenFiles": [
+    "content/Game Consoles/Sony Consoles/PlayStation 4.md",
+    "content/Game Consoles/Sony Consoles/PlayStation 5.md",
+    "content/Game Consoles/Sony Consoles/PSP.md",
+    "content/Game Consoles/Sony Consoles/PS Vita.md",
+    "content/Game Consoles/HTC/Detailed Explanation.md",
+    "content/Game Consoles/HTC/HTC Vive XR Elite.md",
+    "content/Game Consoles/Nintendo Consoles/Nintendo Wii (All Versions).md",
+    "content/Game Consoles/Nintendo Consoles/Nintendo Virtual Boy.md",
+    "content/Game Consoles/Nintendo Consoles/Nintendo SNES.md",
+    "content/Game Consoles/Nintendo Consoles/Nintendo NES.md",
+    "content/Game Consoles/Nintendo Consoles/Nintendo GameCube.md",
+    "content/Game Consoles/Nintendo Consoles/Nintendo Consoles.md",
+    "content/Game Consoles/Nintendo Consoles/Nintendo 64.md",
+    "content/Pasted image 20241213222426.png",
+    "content/Pasted image 20241213222925.png",
+    "content/Game Consoles/Microsoft Consoles/Xbox Series X.md",
+    "content/Pasted image 20241213222830.png",
+    "content/Game Consoles/Nintendo Consoles/Nintendo Switch/Nintendo Switch.md",
+    "content/Game Consoles/Microsoft Consoles/Xbox One X.md",
+    "content/Pasted image 20241213222708.png",
+    "content/Game Consoles/Microsoft Consoles/Xbox One S.md",
+    "content/Pasted image 20241213222613.png",
+    "content/Game Consoles/Microsoft Consoles/Xbox  Series S.md",
+    "content/Game Consoles/Microsoft Consoles/Microsoft Consoles.md",
+    "content/Game Consoles/Game Consoles.md",
+    "content/Pasted image 20240822032717.png",
+    "content/Tablets/Apple Tablets/iPad 7, 8, 9.md",
+    "content/Tablets/Apple Tablets/Apple Tablets.md",
+    "content/Tablets/Apple Tablets/iPad 5.md",
+    "content/How-To Guides/Board Component Cheat Sheet.md",
     "content/Pasted image 20241116134702.png",
     "content/Game Consoles/Nintendo Consoles/Nintendo Switch/Switch OLED.md",
     "content/How-To Guides/How to test an SMD mosfet..md",
-    "content/How-To Guides/How-To Guides.md",
     "content/Pasted image 20241116134552.png",
     "content/Pasted image 20241116142626.png",
-    "content/WIN_20240821_00_15_33_Pro.png",
-    "content/Laptops/Apple Laptops/Apple MacBook Air A1932.md",
-    "content/Laptops/Apple Laptops/Apple MacBook Air A1466.md",
-    "content/Laptops/Apple Laptops/Apple MacBook Air A2337.md",
-    "content/Game Consoles/Nintendo Consoles/Nintendo Switch/Nintendo Switch.md",
-    "content/Nintendo_Switch_Tail_Insertion_Pinout_Correlations.png",
-    "content/index.md",
-    "README.md",
-    "content/Smartphones/Smartphones.md",
-    "content/Smartphones/Apple iPhones.md",
-    "content/Smartphones/Samsung Galaxy.md",
-    "content/Smartphones/Google Pixels.md",
-    "content/Laptops/Lenovo Laptops/Lenovo Thinkpad E490 & E590.md",
-    "content/Laptops/Lenovo Laptops/Lenovo IdeaPad Yoga 910-13IKB.md",
-    "content/Tablets/Apple Tablets/iPad Pro 12.9 (1st Gen).md",
-    "content/Tablets/Apple Tablets/iPad Pro 12.9 (2nd Gen).md",
-    "content/Tablets/Apple Tablets/iPad Pro 12.9 (3rd Gen).md",
-    "content/Tablets/Apple Tablets/iPad Pro 12.9 (4th Gen).md",
-    "content/Tablets/Apple Tablets/iPad Pro 12.9 (5th Gen).md",
-    "content/Tablets/Apple Tablets/iPad Mini 6.md",
-    "content/Tablets/Apple Tablets/iPad Pro 10.5in (1st Gen).md",
-    "content/Laptops/Lenovo Laptops/Lenovo Thinkpad P51.md",
-    "content/Laptops/Lenovo Laptops/Lenovo Laptops.md",
-    "content/Laptops/Dell Laptops/Dell Precision M6400.md",
-    "Pasted image 20241116142403.png",
-    "Pasted image 20241116142429.png",
-    "content/Pasted image 20240822032717.png",
-    "content/Pasted image 20240822040310.png",
-    "content/Pasted image 20240822040317.png"
+    "content/WIN_20240821_00_15_33_Pro.png"
   ]
 }

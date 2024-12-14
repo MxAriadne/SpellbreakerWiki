@@ -16,4 +16,8 @@
 
 ![[Pasted image 20241007184824.png]]
 
+
+### Good Tail Insertion Tester Reading
+
+![[Pasted image 20241213222426.png]]
 ### Note: The Xbox Series X southbridge motherboard cannot be swapped wholesale. The NOR IC is married to the main motherboard APU.  
