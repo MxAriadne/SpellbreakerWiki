@@ -12,7 +12,7 @@
 
 6. During the OS installation, click 'Load Driver' to install the IRST driver.
 
-7. Follow the prompts and browse to the location of the installation files. Select the appropriate ‘.inf’ file (64 or 32 bit).
+7. Follow the prompts and browse to the location of the installation files. Select the appropriate ‘.inf’ file (64 or 32 bit). (Usually the VMD or RAID ones)
 
 8. If you don’t see the driver in the list, uncheck the box that says “Don’t show drivers incompatible with current hardware.”
 
