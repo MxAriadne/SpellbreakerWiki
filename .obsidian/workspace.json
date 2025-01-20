@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7344b28e625d99f3",
+        "id": "18fe0b2c5e18e6ec",
         "type": "tabs",
         "children": [
           {
-            "id": "5aaa2a5201818a26",
+            "id": "b5633ad40a5e9e4f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/index.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "index"
+              "title": "New tab"
             }
           }
         ]
@@ -162,8 +158,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5aaa2a5201818a26",
+  "active": "99ee64066a10ea60",
   "lastOpenFiles": [
+    "content/300px-IPhone12PM_Jumper_Solution_for_Stuck_In_Recovery_Mode.png",
+    "content/Pasted image 20250119195025.png",
+    "content/index.md",
     "content/Smartphones/Google Pixels/Google Pixels.md",
     "content/Smartphones/Samsung Galaxy/Samsung Galaxy.md",
     "content/Smartphones/Apple iPhones/Apple iPhones.md",
@@ -171,10 +170,8 @@
     "content/Smartphones/Apple iPhones/iPhone X Series.md",
     "content/Smartphones/Apple iPhones/iPhone 8 Series.md",
     "content/Smartphones/Apple iPhones/iPhone 7 Series.md",
-    "Pasted image 20250119195025.png",
     "content/Smartphones/Apple iPhones/iPhone 11 Series.md",
     "content/Smartphones/Apple iPhones/iPhone 12 Series.md",
-    "300px-IPhone12PM_Jumper_Solution_for_Stuck_In_Recovery_Mode.png",
     "content/Laptops/Lenovo Laptops/Lenovo IdeaPad Yoga 910-13IKB.md",
     "content/Laptops/Laptops.md",
     "content/Smartphones/Samsung Galaxy",
@@ -187,14 +184,12 @@
     "content/Game Consoles/Microsoft Consoles/Xbox One S.md",
     "content/Game Consoles/Microsoft Consoles/Xbox 360.md",
     "content/Game Consoles/Microsoft Consoles/Xbox One X.md",
-    "content/index.md",
     "content/Tablets/Apple Tablets/iPad Air 1.md",
     "content/Tablets/Apple Tablets/iPad 10.md",
     "content/Tablets/Apple Tablets/iPad Air 2.md",
     "content/Tablets/Apple Tablets/iPad Air 3.md",
     "content/Tablets/Apple Tablets/iPad Air 4.md",
     "content/Tablets/Apple Tablets/iPad Air 5.md",
-    "content/Tablets/Apple Tablets/iPad Mini 6.md",
     "content/Nintendo_Switch_Tail_Insertion_Pinout_Correlations.png",
     "content/Pasted image 20241213222426.png",
     "content/Pasted image 20241213222925.png",
