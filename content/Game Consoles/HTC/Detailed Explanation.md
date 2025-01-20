@@ -1,3 +1,5 @@
+# Detailed Explanation
+
 For now, the simplest solution is to manually edit Vive's OSC Ports and update to the latest software via VIVE Console.
 
 1. **Uninstall any old VIVE face tracking software** (e.g., SRanipal) and ensure that VIVE's streaming software is installed for PCVR connection.

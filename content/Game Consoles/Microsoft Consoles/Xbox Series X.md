@@ -12,11 +12,6 @@
 | Update fails or system cannot start. | Error Code:<br>E100 00000703 80910008 | This error indicates that the disc drive is mismatched. If the correct disc drive is connected, it is likely dead. The only thing you can try is to write the married data from the original disc drive daughterboard to another chip, though if it's gone this far then it is likely too late to do so.                                                                                                          |                                                                                                                  |
 |                                      |                                       |                                                                                                                                                                                                                                                                                                                                                                                                                   |                                                                                                                  |
 
-### HDMI Encoder IC Diode Readings
-
-![[Pasted image 20241007184824.png]]
-
-
 ### Good Tail Insertion Tester Reading
 
 ![[Pasted image 20241213222426.png]]
