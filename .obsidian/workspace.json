@@ -11,10 +11,17 @@
             "id": "b5633ad40a5e9e4f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "content/Computer Components/This is a test!.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 372,
+                  "zoom": -1
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "This is a test!"
             }
           }
         ]
@@ -160,6 +167,7 @@
   },
   "active": "99ee64066a10ea60",
   "lastOpenFiles": [
+    "content/Computer Components/This is a test!.canvas",
     "content/300px-IPhone12PM_Jumper_Solution_for_Stuck_In_Recovery_Mode.png",
     "content/Pasted image 20250119195025.png",
     "content/index.md",
