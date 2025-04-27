@@ -6,3 +6,4 @@
 - [macOS ISO Repo](https://archive.org/download/macos_iso) - Repo of macOS ISO files 13.0.1 and up.
 - [BadCaps](https://www.badcaps.net) - Tech repair forum, has a great repository for boardview files. 
 - [Nintendo Support](https://en-americas-support.nintendo.com/app/pin) - Shortcut to the form for remotely removing parental controls on Nintendo Switches.
+- [ConsoleFix](https://www.consolefix.shop/) - The storefront for Cod3rs pulled parts. Highly recommended.

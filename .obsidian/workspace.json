@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "de5b7bdd57085b8a",
+        "id": "14af9ce304a24a59",
         "type": "tabs",
         "children": [
           {
-            "id": "597aa5dbe550d0cf",
+            "id": "5b015533daa30eaa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Game Consoles/Microsoft Consoles/Xbox Series X.md",
+                "file": "content/Resources.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Xbox Series X"
+              "title": "Resources"
             }
           }
         ]
@@ -163,20 +163,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "597aa5dbe550d0cf",
+  "active": "5b015533daa30eaa",
   "lastOpenFiles": [
+    "content/index.md",
+    "content/300px-IPhone12PM_Jumper_Solution_for_Stuck_In_Recovery_Mode.png",
+    "content/Game Consoles/Microsoft Consoles/Xbox Series X.md",
     "content/Computer Components/GPUs/Gigabyte AMD 7800 XT 12GB.md",
     "content/Computer Components/GPUs/GPUs.md",
     "content/Computer Components/test.canvas",
     "content/Computer Components/Computer Components.md",
-    "content/300px-IPhone12PM_Jumper_Solution_for_Stuck_In_Recovery_Mode.png",
     "content/WIN_20240821_00_15_33_Pro.png",
     "content/Resources.md",
     "content/Pasted image 20250119195025.png",
     "content/Pasted image 20241213222925.png",
     "content/Pasted image 20241213222708.png",
     "content/Pasted image 20241213222613.png",
-    "content/Home - Spellbreaker Wiki.md",
     "content/Smartphones/Google Pixels/Google Pixels.md",
     "content/Smartphones/Samsung Galaxy/Samsung Galaxy.md",
     "content/Smartphones/Apple iPhones/Apple iPhones.md",
@@ -193,14 +194,12 @@
     "content/Smartphones/Apple iPhones",
     "content/Smartphones/Smartphones.md",
     "content/Game Consoles/Microsoft Consoles/Microsoft Consoles.md",
-    "content/Game Consoles/Microsoft Consoles/Xbox Series X.md",
     "content/Game Consoles/Microsoft Consoles/Xbox One.md",
     "content/Game Consoles/Microsoft Consoles/Xbox One S.md",
     "content/Game Consoles/Microsoft Consoles/Xbox 360.md",
     "content/Game Consoles/Microsoft Consoles/Xbox One X.md",
     "content/Tablets/Apple Tablets/iPad Air 1.md",
     "content/Tablets/Apple Tablets/iPad 10.md",
-    "content/Tablets/Apple Tablets/iPad Air 2.md",
     "content/Nintendo_Switch_Tail_Insertion_Pinout_Correlations.png",
     "content/Pasted image 20241213222426.png",
     "content/Pasted image 20241213222830.png",
