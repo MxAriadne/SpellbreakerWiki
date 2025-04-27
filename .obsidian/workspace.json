@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "18fe0b2c5e18e6ec",
+        "id": "de5b7bdd57085b8a",
         "type": "tabs",
         "children": [
           {
-            "id": "b5633ad40a5e9e4f",
+            "id": "597aa5dbe550d0cf",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "content/Computer Components/This is a test!.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 372,
-                  "zoom": -1
-                }
+                "file": "content/Game Consoles/Microsoft Consoles/Xbox Series X.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "This is a test!"
+              "icon": "lucide-file",
+              "title": "Xbox Series X"
             }
           }
         ]
@@ -43,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -165,12 +163,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "99ee64066a10ea60",
+  "active": "597aa5dbe550d0cf",
   "lastOpenFiles": [
-    "content/Computer Components/This is a test!.canvas",
+    "content/Computer Components/GPUs/Gigabyte AMD 7800 XT 12GB.md",
+    "content/Computer Components/GPUs/GPUs.md",
+    "content/Computer Components/test.canvas",
+    "content/Computer Components/Computer Components.md",
     "content/300px-IPhone12PM_Jumper_Solution_for_Stuck_In_Recovery_Mode.png",
+    "content/WIN_20240821_00_15_33_Pro.png",
+    "content/Resources.md",
     "content/Pasted image 20250119195025.png",
-    "content/index.md",
+    "content/Pasted image 20241213222925.png",
+    "content/Pasted image 20241213222708.png",
+    "content/Pasted image 20241213222613.png",
+    "content/Home - Spellbreaker Wiki.md",
     "content/Smartphones/Google Pixels/Google Pixels.md",
     "content/Smartphones/Samsung Galaxy/Samsung Galaxy.md",
     "content/Smartphones/Apple iPhones/Apple iPhones.md",
@@ -195,16 +201,9 @@
     "content/Tablets/Apple Tablets/iPad Air 1.md",
     "content/Tablets/Apple Tablets/iPad 10.md",
     "content/Tablets/Apple Tablets/iPad Air 2.md",
-    "content/Tablets/Apple Tablets/iPad Air 3.md",
-    "content/Tablets/Apple Tablets/iPad Air 4.md",
-    "content/Tablets/Apple Tablets/iPad Air 5.md",
     "content/Nintendo_Switch_Tail_Insertion_Pinout_Correlations.png",
     "content/Pasted image 20241213222426.png",
-    "content/Pasted image 20241213222925.png",
     "content/Pasted image 20241213222830.png",
-    "content/Pasted image 20241213222708.png",
-    "content/Pasted image 20241213222613.png",
-    "content/Pasted image 20240822032717.png",
-    "content/Pasted image 20241116134702.png"
+    "content/Pasted image 20240822032717.png"
   ]
 }
