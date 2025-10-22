@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "content/How-To Guides/Make subdomain lead to a specific port on the server via SRV record..md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -181,8 +181,10 @@
   },
   "active": "8e062b49a5593ea1",
   "lastOpenFiles": [
-    "content/How-To Guides/How to test an SMD mosfet..md",
+    "content/How-To Guides/Update to Windows 11 on an incompatible system WITHOUT reinstalling the OS..md",
     "content/How-To Guides/Make subdomain lead to a specific port on the server via SRV record..md",
+    "content/How-To Guides/How-To Guides.md",
+    "content/How-To Guides/How to test an SMD mosfet..md",
     "content/How-To Guides/Board Component Cheat Sheet.md",
     "content/Pasted image 20251017181000.png",
     "content/How-To Guides/Creating a bootable macOS installer USB on Linux..md",
@@ -218,7 +220,6 @@
     "content/Smartphones/Apple iPhones",
     "content/Smartphones/Smartphones.md",
     "content/Game Consoles/Microsoft Consoles/Microsoft Consoles.md",
-    "content/Game Consoles/Microsoft Consoles/Xbox One.md",
-    "content/Game Consoles/Microsoft Consoles/Xbox One S.md"
+    "content/Game Consoles/Microsoft Consoles/Xbox One.md"
   ]
 }
