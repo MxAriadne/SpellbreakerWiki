@@ -1,3 +1,4 @@
+# Make subdomain lead to a specific port on the server via SRV record.
 For some reason if you look up how to do this you will find endless posts telling you it's completely impossible and will never work. I literally have no idea why people say this since it just is not true. I used to do this for a wiki service that was hard coded to only respond on port 5000 and it worked fine, I also use this to this day for Minecraft servers.
 
 Here is how I do this in Cloudflare:

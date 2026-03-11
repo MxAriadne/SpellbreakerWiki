@@ -8,3 +8,9 @@
 ### Good Tail Insertion Tester Reading
 
 ![[Pasted image 20241213222426.png]]
+
+# V1 Motherboard Images (Labeled Components)
+
+![[Xbox Series S V1 TOP.jpg]]
+
+![[Xbox Series S V1 BOTTOM.jpg]]

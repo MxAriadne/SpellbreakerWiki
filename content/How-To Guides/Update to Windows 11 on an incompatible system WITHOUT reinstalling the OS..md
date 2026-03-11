@@ -1,3 +1,5 @@
+# Update to Windows 11 on an incompatible system WITHOUT reinstalling the OS.
+
 The most popular option, and most often recommended, for installing Windows 11 on an incompatible system is to make a USB installer with Rufus and simply check the boxes to bypass requirements. However, there is another method if you don't want to bother backing up data, etc.
 
 
