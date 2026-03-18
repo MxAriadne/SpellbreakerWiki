@@ -15,3 +15,7 @@
 - [[Nintendo Switch]]
 	- [[Switch Lite]]
 	- [[Switch OLED]]
+
+# External Resources
+- [Nintendo Switch Modding Resources](https://damota.me/ssnc/)
+- 

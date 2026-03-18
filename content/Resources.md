@@ -20,3 +20,4 @@
 - [BiosHelp](https://bioshelp.com) - Copies of BIOS files for various devices.
 - [Fritzchens Fritz](https://www.flickr.com/photos/130561288@N04/albums/) - Huge repo of high-res images of various things. Xray images of RDNA, etc, etc.
 - [FixMyApp](http://www.youtube.com/@fixmyappjim) - As much as I would like to link this persons resources directly, I can't find any one single repo. If you search their username + whatever you need you might be able to find some stuff. I've found detailed diagrams showing standby voltages for Xbox One, PS5, and etc.
+- [Nintendo Switch Modding Resources](https://damota.me/ssnc/) - Guides, serial checker, etc.

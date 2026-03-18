@@ -2,7 +2,7 @@
 
 *Disclaimer: This is largely a simplified version of [The Cod3rs guide](https://consoleservicetool.com/tsb/sony/playstation5/uart/gettingstarted).* 
 
-Unlike with the PS4, where you had to reprogram the NOR in order to read UART errors, the PS5 is just completely readable as is! The only thing you'll need is a CH341A (or similar 3.3V serial reader) and some wires to solder on to the UART points.
+Unlike with the PS4, where you had to reprogram the NOR in order to read UART errors, the PS5 is just completely readable as is! The only thing you'll need is a CH341A ([or FT232RL, etc.](https://a.co/d/02snHCy7)) and some wires to solder on to the UART points.
 
 # Usage
 - First, you'll need to figure out the revision of the motherboard you're working on, it's usually written near the ports. (EDM-010, EDM-033, etc).

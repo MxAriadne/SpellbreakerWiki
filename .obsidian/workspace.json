@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "14af9ce304a24a59",
+        "id": "f075fcef2afdc023",
         "type": "tabs",
         "children": [
           {
-            "id": "5b015533daa30eaa",
+            "id": "cfd0c9e812d4399a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Game Consoles/Nintendo Consoles/Nintendo DS/DS Lite.md",
+                "file": "content/How-To Guides/How to Read PlayStation 5 Error Codes via UART.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DS Lite"
+              "title": "How to Read PlayStation 5 Error Codes via UART"
             }
           }
         ]
@@ -164,15 +164,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b015533daa30eaa",
+  "active": "cfd0c9e812d4399a",
   "lastOpenFiles": [
+    "content/How-To Guides/How to Read Xbox Error Codes via Raspberry Pi Pico.md",
+    "content/How-To Guides/Update to Windows 11 on an incompatible system WITHOUT reinstalling the OS..md",
+    "content/Laptops/Apple Laptops/Apple MacBook Air A2941.md",
+    "content/Laptops/Apple Laptops/Apple MacBook Air A2337.md",
+    "content/Laptops/Apple Laptops/Apple MacBook Air A2179.md",
+    "content/Laptops/Apple Laptops/Apple MacBook Air A1932.md",
+    "content/Laptops/Apple Laptops/Apple MacBook Air A1466.md",
+    "content/Laptops/Apple Laptops/Apple MacBook Pro A2442.md",
+    "content/Laptops/Apple Laptops/Apple MacBook Pro A2338.md",
+    "content/Laptops/Apple Laptops/Untitled.md",
+    "content/Game Consoles/Nintendo Consoles/Nintendo Switch/Nintendo Switch.md",
+    "content/Resources.md",
+    "content/Game Consoles/Nintendo Consoles/Nintendo Consoles.md",
     "content/Game Consoles/Nintendo Consoles/Nintendo DS/3DS + 2DS (All Versions).md",
     "content/How-To Guides/Windows 10 or 11 installer doesn't detect NVMe drive..md",
-    "content/How-To Guides/Update to Windows 11 on an incompatible system WITHOUT reinstalling the OS..md",
     "content/How-To Guides/Make subdomain lead to a specific port on the server via SRV record..md",
     "content/How-To Guides/How-To Guides.md",
     "content/How-To Guides/How to test an SMD mosfet..md",
-    "content/How-To Guides/How to Read Xbox Error Codes via Raspberry Pi Pico.md",
     "content/How-To Guides/How to Read PlayStation 5 Error Codes via UART.md",
     "content/index.md",
     "content/all_revs_diagram_ACE.jpg",
@@ -186,21 +197,10 @@
     "content/Game Consoles/Microsoft Consoles/Xbox Series S.md",
     "content/Xbox Series S V1 BOTTOM.jpg",
     "content/Xbox Series S V1 TOP.jpg",
-    "content/Resources.md",
     "content/Game Consoles/Sony Consoles/PlayStation 4.md",
     "content/Game Consoles/Sony Consoles/Sony Consoles.md",
     "content/Game Consoles/Game Consoles.md",
     "content/Game Consoles/Steam Consoles/Steam Deck.md",
-    "content/Game Consoles/Steam Consoles/Steam Consoles.md",
-    "content/Game Consoles/Nintendo Consoles/Nintendo Wii (All Versions).md",
-    "content/Game Consoles/Nintendo Consoles/Nintendo Consoles.md",
-    "content/Game Consoles/Microsoft Consoles/Microsoft Consoles.md",
-    "content/Game Consoles/Sega Consoles/Sega Consoles.md",
-    "content/Game Consoles/Nintendo Consoles/Nintendo DS/DS Lite.md",
-    "content/Game Consoles/Nintendo Consoles/Nintendo DS/DSi (All Version).md",
-    "content/Game Consoles/Nintendo Consoles/Nintendo DS/Nintendo DS.md",
-    "content/Game Consoles/Microsoft Consoles/Xbox One X.md",
-    "content/Game Consoles/Microsoft Consoles/Xbox One S.md",
     "content/WIN_20240821_00_15_33_Pro.png",
     "content/Computer Components/test.canvas",
     "content/Smartphones/Samsung Galaxy",
