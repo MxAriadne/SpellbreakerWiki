@@ -4,6 +4,8 @@ Welcome to **Spellbreaker Wiki**, a knowledge base designed to provide guides, t
 
 Spellbreaker Wiki is built using **Quartz**, a powerful program that converts Obsidian vaults into fully functional websites. With Quartz, our vast collection of repair knowledge is easily navigable and accessible, allowing you to quickly find the information you need to tackle your repair projects. (We love Quartz c:)
 
+# **If you want to contribute, please either create a pull request with changes on the [GitHub](https://github.com/MxAriadne/SpellbreakerWiki), or use the Issue tracker under the feature request tag!!!**
+
 ---
 
 If you've stumbled across this website I've either sent you a direct link to it or you have weird search terms because the SEO is not even setup.
