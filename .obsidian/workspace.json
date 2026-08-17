@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/index.md",
+                "file": "content/Resources.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Resources"
+            }
+          },
+          {
+            "id": "696c8bd0c5955cf2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Game Consoles/Sony Consoles/PlayStation 5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PlayStation 5"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -41,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -164,45 +181,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cfd0c9e812d4399a",
+  "active": "99ee64066a10ea60",
   "lastOpenFiles": [
-    "content/Resources.md",
-    "content/Game Consoles/Nintendo Consoles/Nintendo DS/DS Lite.md",
-    "content/Game Consoles/Nintendo Consoles/Nintendo DS/DSi (All Version).md",
-    "content/Game Consoles/Nintendo Consoles/Nintendo DS/3DS + 2DS (All Versions).md",
-    "content/Game Consoles/Microsoft Consoles/Xbox One.md",
-    "content/Game Consoles/Microsoft Consoles/Xbox 360.md",
-    "content/Game Consoles/Microsoft Consoles/Original Xbox.md",
-    "content/Game Consoles/Microsoft Consoles/Microsoft Consoles.md",
-    "content/Game Consoles/HTC/HTC Vive XR Elite.md",
+    "2b36e95c1d672c0e5e3d01a2aa688bc4-1389429215.png",
+    "content/Game Consoles/Game Consoles.md",
+    "content/Game Consoles/ASUS Consoles/ASUS ROG Ally.md",
+    "content/Game Consoles/ASUS Consoles/ASUS Consoles.md",
     "content/Game Consoles/HTC/HTC.md",
+    "content/Screenshot 2026-08-02 173356.png",
     "content/Game Consoles/HTC/Detailed Explanation.md",
-    "content/Computer Components/GPUs/Gigabyte AMD 7800 XT 12GB.md",
-    "content/Computer Components/test.canvas",
-    "content/Computer Components/GPUs/GPUs.md",
+    "content/Game Consoles/Microsoft Consoles/Microsoft Consoles.md",
+    "content/Game Consoles/Microsoft Consoles/Original Xbox.md",
+    "content/Game Consoles/HTC/HTC Vive XR Elite.md",
     "content/Computer Components/Computer Components.md",
-    "content/index.md",
-    "content/Xbox Series S V1 TOP.jpg",
-    "content/Xbox Series S V1 BOTTOM.jpg",
-    "content/Game Consoles/Sony Consoles/PlayStation 5.md",
-    "content/How-To Guides/How to Read PlayStation 5 Error Codes via UART.md",
-    "content/How-To Guides/How to Read Xbox Error Codes via Raspberry Pi Pico.md",
-    "content/How-To Guides/Update to Windows 11 on an incompatible system WITHOUT reinstalling the OS..md",
+    "content/Game Consoles/ASUS Consoles",
+    "content/Game Consoles/Microsoft Consoles/Xbox Series X.md",
+    "content/Game Consoles/Microsoft Consoles/Xbox One S.md",
+    "content/Game Consoles/Microsoft Consoles/Xbox One.md",
+    "content/Game Consoles/Nintendo Consoles/Nintendo DS/3DS + 2DS (All Versions).md",
+    "content/How-To Guides/Board Component Cheat Sheet.md",
+    "content/Laptops/Acer Laptops/Acer Aspire 5057G.md",
+    "content/Laptops/Acer Laptops/Acer Aspire E5-773G.md",
+    "content/Laptops/Acer Laptops/Acer Aspire V3-772G.md",
     "content/Laptops/Apple Laptops/Apple MacBook Air A2941.md",
     "content/Laptops/Apple Laptops/Apple MacBook Air A2337.md",
+    "content/Laptops/Apple Laptops/Apple MacBook Pro A1278.md",
+    "content/Laptops/Apple Laptops/Apple MacBook Pro A1297.md",
+    "content/Laptops/Apple Laptops/Apple MacBook Pro A1708.md",
     "content/Laptops/Apple Laptops/Apple MacBook Air A2179.md",
     "content/Laptops/Apple Laptops/Apple MacBook Air A1932.md",
-    "content/Laptops/Apple Laptops/Apple MacBook Air A1466.md",
-    "content/Laptops/Apple Laptops/Apple MacBook Pro A2442.md",
-    "content/Laptops/Apple Laptops/Apple MacBook Pro A2338.md",
+    "content/Smartphones/Apple iPhones/Apple iPhones.md",
     "content/all_revs_diagram_ACE.jpg",
     "content/300px-IPhone12PM_Jumper_Solution_for_Stuck_In_Recovery_Mode.png",
+    "content/Pasted image 20240822032717.png",
+    "content/Pasted image 20240822040310.png",
+    "content/Computer Components/test.canvas",
+    "content/Xbox Series S V1 TOP.jpg",
+    "content/Xbox Series S V1 BOTTOM.jpg",
     "content/Pasted image 20241116142626.png",
     "content/Pasted image 20241116134552.png",
     "content/Pasted image 20241007184929.png",
-    "content/Pasted image 20241007184824.png",
-    "content/Pasted image 20250119195025.png",
-    "content/WIN_20240821_00_15_33_Pro.png",
     "content/Smartphones/Samsung Galaxy",
     "content/Smartphones/Google Pixels",
     "content/Smartphones/Apple iPhones"

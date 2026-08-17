@@ -7,9 +7,11 @@
 - [ForterFix BGA Tool](https://forterfix.com/gddr_pinout) - "BGA Interactive Schematic Visualization and Damage Check Tool" super cool online tool. Hard to explain but in short you can see the pinouts for a ton of common BGA ICs, like PS5 RAM, or GDDR6, etc. You can also select damaged pins and it will tell you if it will still work.
 - [ConsoleFix](https://www.consolefix.shop/) - The storefront for Cod3rs pulled parts. Highly recommended.
 - [IndiaFix](https://indiafix.in) - Massive free repository of boardviews, schematics, and software.
-- [BiosHelp](https://bioshelp.com) - Copies of BIOS files for various devices.
+- [BiosHelp](https://bioshelp.com) - Copies of BIOS files for various devices. (**EDIT:** SECOND TIME THIS SHIT HAS HAPPENED. DOWNLOADS ARE NOW **PAID ONLY**. STILL A GOOD RESOURCE BUT THEY'RE SHITTY FOR THAT.) 
 - [FixMyApp](http://www.youtube.com/@fixmyappjim) - As much as I would like to link this persons resources directly, I can't find any one single repo. If you search their username + whatever you need you might be able to find some stuff. I've found detailed diagrams showing standby voltages for Xbox One, PS5, and etc.
 - [Fritzchens Fritz](https://www.flickr.com/photos/130561288@N04/albums/) - Huge repo of high-res images of various things. Xray images of RDNA, etc, etc.
+- [AYA](https://aya.liriliri.io/) - Multiplatform Android ADB Manager. Screen viewing, terminal access, file explorer, APK management, etc. 
+- [Micron Parts Number Decoder](https://www.micron.com/sales-support/design-tools/fbga-parts-decoder) - Type in the FBGA code and get the full part number for Micron ICs.
 
 ### PC Resources
 - [macOS ISO Repo](https://archive.org/download/macos_iso) - Repo of macOS ISO files 13.0.1 and up.
@@ -18,6 +20,9 @@
 - [LaptopTechInfo](https://laptechinfo.com) - Repository of various schematics and boardviews. I've only used it a handful of times so I won't 100% endorse it yet, but it has been solid the few times I've needed it.
 - [DNS Speed Test](https://dnsspeedtest.online) - Test latency between various DNS services at once to find the best one for you.
 - [DNS Check Tools](https://dnscheck.tools) - Performs a check on your DNS providers and reports DNSSEC results.
+- [Winhance](https://winhance.net/) - Debloat Windows + automatically launch presets to customize and alter stuff.
+- [AudoPlaybackConnector](https://github.com/ysc3839/AudioPlaybackConnector) - This is admittedly not a tool but I was on the hunt for a well integrated A2DP program to pass Android phone audio to PC and these was the best one I could find.
+- [SuperGrate](https://github.com/belowaverage-org/SuperGrate) - Lets you clone Windows profiles to other Windows installations.
 
 ### Console Resources
 - [retrosix.wiki](https://retrosix.wiki) - Repair knowledge repo, very detailed, typically includes a lot motherboard info.

@@ -4,5 +4,6 @@
 - [[Microsoft Consoles]]
 - [[Nintendo Consoles]]
 - [[Sony Consoles]]
+- [[ASUS Consoles]]
 - [[Steam Consoles]]
 - [[Sega Consoles]]
