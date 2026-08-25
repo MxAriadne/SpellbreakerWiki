@@ -25,4 +25,7 @@ This guide is mostly a retelling of the GitHub guide with additional information
 The program should automatically pull info relevant to the error codes from [Xbox Research](https://errors.xboxresearch.com/)
 but it's worth checking out the website directly because sometimes there are more reports with different information.
 
-![[all_revs_diagram_ACE.jpg]]
+![[all_revs_diagram_ACE.jpg|700]]
+
+RP2040-Zero Pinout:
+![[H52699233b13f42b2b0ea1cf46cdc4fedm-1228233871.jpg|355]]

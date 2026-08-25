@@ -12,6 +12,7 @@
 - [Fritzchens Fritz](https://www.flickr.com/photos/130561288@N04/albums/) - Huge repo of high-res images of various things. Xray images of RDNA, etc, etc.
 - [AYA](https://aya.liriliri.io/) - Multiplatform Android ADB Manager. Screen viewing, terminal access, file explorer, APK management, etc. 
 - [Micron Parts Number Decoder](https://www.micron.com/sales-support/design-tools/fbga-parts-decoder) - Type in the FBGA code and get the full part number for Micron ICs.
+- [Diagram Board](https://www.diagramboard.com) - Repo of various diagrams for literally everything. It's kind of hard to navigate but I've honestly found some diagrams I've never seen anywhere else.
 
 ### PC Resources
 - [macOS ISO Repo](https://archive.org/download/macos_iso) - Repo of macOS ISO files 13.0.1 and up.
@@ -33,3 +34,4 @@
 - [ForterFix PCB Viewer](https://forterfix.com/switch_layers/) - PCB layers viewer for Switch 1 / 2 / Lite / OLED.
 - [Pico Durango POST Code Reader](https://github.com/xboxoneresearch/PicoDurangoPOST) - Tools to read POST codes on Xbox's using a Raspberry Pi Pico. 
 - [ZZAttack Switch Diode Readings](https://files.zzattack.org/index.php?dir=img%2Fconsole%2Fswitch%2Foled%2FComponents) - ZZAttack has some more resources if you go through it, but I wanted to highlight the set of diode readings they have hosted for the Switch.
+- [Sunthar Guides](https://sector.sunthar.com/guides/) - Mainly modding info but also has some useful data for older consoles.
